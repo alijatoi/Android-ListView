@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView Project</string>
+    <array name="ListEntries">
+        <item> Germany </item>
+        <item> Magdeburg </item>
+        <item> Stadfeld OST </item>
+        <item>  39108   </item>
+        <item> freiligrathrasse </item>
+    </array>
+</resources>
